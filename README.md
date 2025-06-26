@@ -5,10 +5,12 @@
 
 This is a question I've started asking myslef while I was writing my Master's thesis on the changing landscape of the Nile river basin using remote sensing. Once I graduated and was writing job applications I started this project to relax and do something I truly love: use data science and programming to answer questions no one has ever asked. I've lived in Germany, England and Belgium and I have to say Germany is by far the most interesting in terms of landscape, especially Bavaria where I was born. But can I actually proof it? Everyone is always annoyed with me raving on about how great Bavaria is compared to the rest of Germany. This project is for all the people who doubt that, it provides cold hard facts to these mundane questions.
 
+---
+
 ## 📋 Table of Contents
 - [📊 Project Stats](#-project-stats)
-- [🧠 How It Works](#-how-it-works)
-- [📈 Distribution Analysis](#-distribution-analysis)
+- [➡️ General Workflow](#-general-workflow)
+- [📈 Progress](#-progress)
 - [🏆 Most Interesting Discoveries](#-most-interesting-discoveries)
 - [🚀 Quick Start](#-quick-start)
 - [🔬 Technical Details](#-technical-details)
@@ -18,11 +20,10 @@ This is a question I've started asking myslef while I was writing my Master's th
 ---
 
 ## 📊 Project Stats
-...content...
-
-## 🧠 How It Works
-...content...
-
+- **357,000+** satellite image squares processed
+- **16** German states covered  
+- **Top 1%** most interesting locations identified
+- **~5TB** of satellite data analyzed
 
 
 | Typical Squares | 🆚 | Most Interesting Finds |
@@ -41,22 +42,6 @@ This is a question I've started asking myslef while I was writing my Master's th
 
 </details>
 
-
-
-
-## 📊 Project Stats
-- **357,000+** satellite image squares processed
-- **16** German states covered  
-- **Top 1%** most interesting locations identified
-- **~5TB** of satellite data analyzed
-
-
-## 🧠 How It Works
-
-🔸 **Step 1: Grid Generation** - Split Germany into 1km² squares  
-🔸 **Step 2: Feature Extraction** - Analyze structure & color patterns  
-🔸 **Step 3: Outlier Detection** - Apply Local Outlier Factor algorithm  
-🔸 **Step 4: Ranking** - Sort by "interestingness" score
 
 
 ## 🏆 Most Interesting Discoveries
@@ -169,32 +154,4 @@ xychart-beta
     y-axis "Number of Photos" 0 --> 15000
     bar [15000, 15000, 171, 6824, 135, 238, 4388, 5293, 15000, 8459, 5000, 678, 4165, 4425, 3442, 3650]
 ```
-    "Baden-Württemberg" : 10000
-    "Bayern" : 10000
-    "Berlin" : 171
-    "Brandenburg" : 6824
-    "Bremen" : 135
-    "Hamburg" : 238
-    "Hessen" : 4388
-    "Mecklenburg-Vorpommern" : 5293
-    "Niedersachsen" : 10000
-    "Nordrhein-Westfalen" : 8459
-    "Rheinland-Pfalz" : 5000
-    "Saarland" : 678
-    "Sachsen" : 4165
-    "Sachsen-Anhalt" : 4425
-    "Schleswig-Holstein" : 3442
-    "Thüringen" : 3650
-**Gantt charts** - Project timelines:
 
-```mermaid
-gantt
-    title Project Timeline
-    dateFormat  YYYY-MM-DD
-    section Planning
-    Research    :2024-01-01, 10d
-    Design      :2024-01-15, 15d
-    section Development
-    Backend     :2024-02-01, 30d
-    Frontend    :2024-02-15, 25d
-```
