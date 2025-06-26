@@ -6,13 +6,25 @@
 This is a question I've started asking myslef while I was writing my Master's thesis on the changing landscape of the Nile river basin using remote sensing. Once I graduated and was writing job applications I started this project to relax and do something I truly love: use data science and programming to answer questions no one has ever asked. I've lived in Germany, England and Belgium and I have to say Germany is by far the most interesting in terms of landscape, especially Bavaria where I was born. But can I actually proof it? Everyone is always annoyed with me raving on about how great Bavaria is compared to the rest of Germany. This project is for all the people who doubt that, it provides cold hard facts to these mundane questions.
 
 
-## 🗺️ Navigation
+<details>
+<summary>📋 Table of Contents</summary>
 
-[![Project Stats](https://img.shields.io/badge/📊-Project_Stats-blue)](#-project-stats)
-[![How It Works](https://img.shields.io/badge/🧠-How_It_Works-green)](#-how-it-works)
-[![Results](https://img.shields.io/badge/🏆-Results-orange)](#-most-interesting-discoveries)
-[![Quick Start](https://img.shields.io/badge/🚀-Quick_Start-red)](#-quick-start)
-[![Technical](https://img.shields.io/badge/🔬-Technical-purple)](#-technical-details)
+- [📊 Project Overview](#-project-overview)
+  - [Stats Dashboard](#stats-dashboard)
+  - [Key Features](#key-features)
+- [🧠 Algorithm](#-algorithm)
+  - [Feature Extraction](#feature-extraction)
+  - [Outlier Detection](#outlier-detection)
+- [📈 Results](#-results)
+  - [Distribution by State](#distribution-by-state)
+  - [Top Discoveries](#top-discoveries)
+- [🚀 Usage](#-usage)
+  - [Installation](#installation)
+  - [Quick Start](#quick-start)
+- [🔬 Technical Details](#-technical-details)
+- [🤝 Contributing](#-contributing)
+
+</details>
 
 
 
@@ -80,7 +92,7 @@ def extract_features(image_square):
 ```
 
 
-## General Workflow
+# General Workflow
 
 I am fully aware these are not proper workflows. Since this a project just for me and I'm not planning on publishing any of it it is merely a representation of the process and I am not planning on doing proper UML diagrams as the procedure is rather simple.
 
