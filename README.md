@@ -2,14 +2,7 @@
 
 This is a small side project I've started working on while searching for jobs. 
 
-```mermaid
-xychart-beta
-    title "Sales Revenue"
-    x-axis [jan, feb, mar, apr, may, jun, jul, aug, sep, oct, nov, dec]
-    y-axis "Revenue (in $)" 4000 --> 11000
-    bar [5000, 6000, 7500, 8200, 9500, 10500, 11000, 10200, 9200, 8500, 7000, 6000]
-    line [5000, 6000, 7500, 8200, 9500, 10500, 11000, 10200, 9200, 8500, 7000, 6000]
-```
+
 
 # General Workflow
 
@@ -82,16 +75,29 @@ gantt
 
 ```
 
-
-```mermaid 
-pie title Project Componentsadf
-"Frontend" : 40
-"Backend API" : 35
-"Database" : 15
-"DevOps" : 13
+```mermaid
+xychart-beta
+    title "Images per Bundesland"
+    x-axis ["BW", "BY", "BE", "BB", "HB", "HH", "HE", "MV", "NI", "NW", "RP", "SL", "SN", "ST", "SH", "TH"]
+    y-axis "Number of Photos" 0 --> 15000
+    bar [15000, 15000, 171, 6824, 135, 238, 4388, 5293, 15000, 8459, 5000, 678, 4165, 4425, 3442, 3650]
 ```
-
-
+    "Baden-Württemberg" : 10000
+    "Bayern" : 10000
+    "Berlin" : 171
+    "Brandenburg" : 6824
+    "Bremen" : 135
+    "Hamburg" : 238
+    "Hessen" : 4388
+    "Mecklenburg-Vorpommern" : 5293
+    "Niedersachsen" : 10000
+    "Nordrhein-Westfalen" : 8459
+    "Rheinland-Pfalz" : 5000
+    "Saarland" : 678
+    "Sachsen" : 4165
+    "Sachsen-Anhalt" : 4425
+    "Schleswig-Holstein" : 3442
+    "Thüringen" : 3650
 **Gantt charts** - Project timelines:
 
 ```mermaid
