@@ -19,8 +19,8 @@ df['date'] = pd.to_datetime(df['date'])
 # Chart 1: Cumulative Progress Line Chart
 plt.figure(figsize=(12, 6))
 plt.plot(df['date'], df['total_images'], marker='o', linewidth=2.5, markersize=4)
-plt.title('Satellite Image Collection Progress', fontsize=16, fontweight='bold')
-plt.xlabel('Date', fontsize=12)
+plt.title('Image Collection Progress', fontsize=16, fontweight='bold')
+plt.xlabel(' ', fontsize=12)
 plt.ylabel('Total Images Collected', fontsize=12)
 plt.grid(True, alpha=0.3)
 
