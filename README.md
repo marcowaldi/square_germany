@@ -1,12 +1,3 @@
-# 🛰️ Landsat Anomaly Hunter
-> Discovering Germany's most visually unique landscapes, one square kilometer at a time
-
-*What if we could automatically find the most interesting places in Germany just by looking at satellite data? This project does exactly that.*
-
-This is a question I've started asking myslef while I was writing my Master's thesis on the changing landscape of the Nile river basin using remote sensing. Once I graduated and was writing job applications I started this project to relax and do something I truly love: use data science and programming to answer questions no one has ever asked. I've lived in Germany, England and Belgium and I have to say Germany is by far the most interesting in terms of landscape, especially Bavaria where I was born. But can I actually proof it? Everyone is always annoyed with me raving on about how great Bavaria is compared to the rest of Germany. This project is for all the people who doubt that, it provides cold hard facts to these mundane questions.
-
----
-
 ## 📋 Table of Contents
 - [📊 Project Stats](#-project-stats)
 - [🏆 Most Interesting Discoveries](#-most-interesting-discoveries-tbd)
@@ -16,16 +7,17 @@ This is a question I've started asking myslef while I was writing my Master's th
 
 ---
 
-## 📊 Project Stats
-- **55,000+** satellite image squares processed
-- **13** German states covered  
-- **30+ days** of work
+# 🛰️ Landsat Anomaly Hunter
+> Discovering Germany's most visually unique landscapes, one square kilometer at a time
+
+*What if we could automatically find the most interesting places in Germany just by looking at satellite data? This project does exactly that.*
+
+This is a question I've started asking myslef while I was writing my Master's thesis on the changing landscape of the Nile river basin using remote sensing. Once I graduated and was writing job applications I started this project to relax and do something I truly love: use data science and programming to answer questions no one has ever asked. I've lived in Germany, England and Belgium and I have to say Germany is by far the most interesting in terms of landscape, especially Bavaria where I was born. But can I actually proof it? Everyone is always annoyed with me raving on about how great Bavaria is compared to the rest of Germany. This project is for all the people who doubt that, it provides cold hard facts to these mundane questions.
 
 
 | Boring Squares | 🆚 | Interesting Squares |
 |:---:|:---:|:---:|
 | ![boring1](data/tile_6.840_49.596.png) | | ![interesting1](data/tile_9.996_53.550.png) |
-
 
 
 <details>
@@ -44,6 +36,13 @@ This is a question I've started asking myslef while I was writing my Master's th
 - The tiles are named based on the LAT LON coordinates of the lower left corner so they can be found after the project is done and a higher res image can be created.
 </details>
 
+
+---
+
+## 📊 Project Stats
+- **55,000+** satellite image squares processed
+- **13** German states covered  
+- **30+ days** of work
 
 
 ## 🏆 Most Interesting Discoveries [**TBD**]
@@ -87,7 +86,7 @@ n2  -- Cropping & 'Gridification' -->  n1["Batch Export"]
 	 - more than 50% of the square is located outside Germany will be discarded
 - After processing the images will be stored in a combined folder in order to make further progress easier
 - A square will receive a Feature & Colour Value based on its outlier factor which are weighed equally and a combined score is created. For a detailed explanation of the LOC and general procedure please refer to the methodology section.
--  
+  
 ```mermaid
 flowchart  LR
 subgraph  s2["Google Drive"]
