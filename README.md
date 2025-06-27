@@ -35,14 +35,11 @@ This is a question I've started asking myslef while I was writing my Master's th
 <summary>🔍 more details about the example squares</summary>
 
 ### Saarland proof of concept
-|:---:|:---:|:---:|
-| tile_6.840_49.596 | | tile_9.996_53.550 |
-| Pattern Score |
-| 0.06888652 [639th] | | 0.94206405 [2nd] |
-| Colour Score |
-| 0.12536496 [150 [150th]| | 0.57256913 [8th] |
-| Overall Score |
-| 0.09712574 [545th] | | 0.7573166 [1st] |
+| Tile Name | Pattern Score | Colour Score | Overall Score |
+|:---:|:---:|:---:|:---:|
+| tile_6.840_49.596 [*boring*] | 0.06888652 [639th] | 0.12536496 [150 [150th] | 0.09712574 [545th] |
+| tile_9.996_53.550 [*interesting*] | 0.94206405 [2nd] | 0.57256913 [8th] | 0.7573166 [1st] |
+
 
 </details>
 
