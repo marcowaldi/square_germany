@@ -20,25 +20,29 @@ This is a question I've started asking myslef while I was writing my Master's th
 ---
 
 ## 📊 Project Stats
-- **357,000+** satellite image squares processed
-- **16** German states covered  
-- **Top 1%** most interesting locations identified
-- **~5TB** of satellite data analyzed
+- **55,000+** satellite image squares processed
+- **13** German states covered  
+- **30+ days** of work
 
 
-| Boring Squares | 🆚 | Most Interesting Finds |
+| Boring Squares | 🆚 | Interesting Squares |
 |:---:|:---:|:---:|
 | ![boring1](data/tile_6.840_49.596.png) | | ![interesting1](data/tile_9.996_53.550.png) |
 
 
 
 <details>
-<summary>🔍 Click to see the algorithm breakdown</summary>
+<summary>🔍 more details about the example squares</summary>
 
-### Local Outlier Factor Analysis
-- **Structure Analysis**: Edge detection, texture patterns
-- **Color Composition**: RGB distribution, saturation variance
-- **Anomaly Detection**: Statistical outliers in feature space
+### Saarland proof of concept
+|:---:|:---:|:---:|
+| tile_6.840_49.596 | | tile_9.996_53.550 |
+| Pattern Score |
+| 0.06888652 [639th] | | 0.94206405 [2nd] |
+| Colour Score |
+| 0.12536496 [150 [150th]| | 0.57256913 [8th] |
+| Overall Score |
+| 0.09712574 [545th] | | 0.7573166 [1st] |
 
 </details>
 
