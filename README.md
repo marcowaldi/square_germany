@@ -145,21 +145,11 @@ gantt
 
 As stated in the section above, progress was slow to begin with but ramped up significantly one a daily routine was established. 
 The charts below describe the overall progress made in tiles captured as well as a chart describing the amount of tiles per German state. **[Rheinland-Pflanz is suspisious with exactly 5k... Need to double check]**
+In future projects I would definitely go the route I did for the cumulative progress, meaning create a GitHub workflow and have a progress.csv file in the repo. Initially I didn't do this as I was just working in Collab and Google Drive, so right now I have to update the progress file manually which is a pain. Furthermore, it would just make more sense to have the timeline shown above and the images per Bundesland tied to the data/ progress itself and have them update automatically. As previously mentioned this gitHub page was an afterthought. Lesson learned.  
 
-```mermaid
-xychart-beta
-    title "Satellite Image Collection Progress"
-    x-axis ["May 26", " ", " ", " ", "May 30", " ", " ", " ", "Jun 03", " ", " ", " ", "Jun 07", " ", " ", " ", "Jun 11", " ", " ", " ", "Jun 15", " ", " ", " ", "Jun 19", " ", " ", " ", "Jun 23", " ", " ", " ", "Jun 27"]
-    y-axis "Total Images" 0 --> 30000
-    line [450, 1200, 2100, 3500, 4800, 6200, 7900, 9100, 10800, 12200, 13900, 15100, 16800, 18200, 19900, 21100, 22800, 24200, 25600, 26800, 27900, 28800, 29400, 29800, 30100, 30300, 30400, 30450, 30480, 30500, 30520, 30530, 30535]
-```
-```mermaid
-xychart-beta
-    title "Satellite Image Collection Progress"
-    x-axis ["May 26", " ", "  ", "   ", "May 30", "   ", "    ", "     ", "Jun 03"]
-    y-axis "Total Images" 0 --> 30000
-    line [450, 1200, 2100, 3500, 4800, 6200, 7900, 9100, 10800]
-```
+
+![Cumulative Progress](./charts/cumulative_progress.png)
+
 
 ```mermaid
 xychart-beta
@@ -168,8 +158,6 @@ xychart-beta
     y-axis "Number of Photos" 0 --> 10000
     bar [0, 0, 171, 6824, 135, 238, 4388, 5293, 0, 8459, 5000, 678, 4165, 4425, 3442, 3650]
 ```
-
-![Daily Rate](./charts/daily_rate.png)
 
 ---
 
