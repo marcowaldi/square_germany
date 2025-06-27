@@ -149,7 +149,7 @@ The charts below describe the overall progress made in tiles captured as well as
 ```mermaid
 xychart-beta
     title "Satellite Image Collection Progress"
-    x-axis ["May 26", "", "", "", "May 30", "", "", "", "Jun 03", "", "", "", "Jun 07", "", "", "", "Jun 11", "", "", "", "Jun 15", "", "", "", "Jun 19", "", "", "", "Jun 23", "", "", "", "Jun 27"]
+    x-axis ["May 26", " ", " ", " ", "May 30", " ", " ", " ", "Jun 03", " ", " ", " ", "Jun 07", " ", " ", " ", "Jun 11", " ", " ", " ", "Jun 15", " ", " ", " ", "Jun 19", " ", " ", " ", "Jun 23", " ", " ", " ", "Jun 27"]
     y-axis "Total Images" 0 --> 30000
     line [450, 1200, 2100, 3500, 4800, 6200, 7900, 9100, 10800, 12200, 13900, 15100, 16800, 18200, 19900, 21100, 22800, 24200, 25600, 26800, 27900, 28800, 29400, 29800, 30100, 30300, 30400, 30450, 30480, 30500, 30520, 30530, 30535]
 ```
