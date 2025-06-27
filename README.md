@@ -9,10 +9,10 @@ This is a question I've started asking myslef while I was writing my Master's th
 
 ## 📋 Table of Contents
 - [📊 Project Stats](#-project-stats)
-- [🏆 Most Interesting Discoveries](#-most-interesting-discoveries)
+- [🏆 Most Interesting Discoveries](#-most-interesting-discoveries-[**TBD**])
 - [➡️ General Workflow](#general-workflow)
-- [📈 Progress](#progress)
-- [🔬 Methodology](#methodology)
+- [📈 Progress](#-progress)
+- [🔬 Methodology](#-methodology)
 
 ---
 
