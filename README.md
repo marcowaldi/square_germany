@@ -167,5 +167,5 @@ xychart-beta
 
 ## 🔬 Methodology
 
-**{TBD]**
+**[TBD]**
 
