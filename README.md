@@ -143,7 +143,7 @@ gantt
 
 ```
 
-## Data Collected
+### Data Collected
 
 As stated in the section above, progress was slow to begin with but ramped up significantly one a daily routine was established. 
 
