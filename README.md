@@ -9,13 +9,10 @@ This is a question I've started asking myslef while I was writing my Master's th
 
 ## 📋 Table of Contents
 - [📊 Project Stats](#-project-stats)
-- [➡️ General Workflow](#general-workflow)
-- [📈 Progress](#-progress)
 - [🏆 Most Interesting Discoveries](#-most-interesting-discoveries)
-- [🚀 Quick Start](#-quick-start)
-- [🔬 Technical Details](#-technical-details)
-- [🤝 Contributing](#-contributing)
-- [📝 Citation](#-citation)
+- [➡️ General Workflow](#general-workflow)
+- [📈 Progress](#progress)
+- [🔬 Methodology](#methodology)
 
 ---
 
@@ -63,25 +60,9 @@ This is a question I've started asking myslef while I was writing my Master's th
 ![third-find](link-to-image)
 *LOF Score: [**TBD**] | Coordinates: [**TBD**]
 
-<details>
-<summary>🔬 Technical Implementation Details</summary>
+---
 
-## Feature Engineering
-```python
-def extract_features(image_square):
-    # Structure features
-    edges = cv2.Canny(image, 50, 150)
-    texture = local_binary_pattern(image)
-    
-    # Color features  
-    color_hist = cv2.calcHist([image], [0,1,2], None, [8,8,8], [0,256,0,256,0,256])
-    saturation_var = np.var(cv2.cvtColor(image, cv2.COLOR_RGB2HSV)[:,:,1])
-    
-    return np.concatenate([edges.flatten(), texture.flatten(), color_hist.flatten(), [saturation_var]])
-```
-</details>
-
-# General Workflow
+## General Workflow
 
 I am fully aware these are not proper workflows. Since this a project just for me and I'm not planning on publishing any of it it is merely a representation of the process and I am not planning on doing proper UML diagrams as the procedure is rather simple.
 
@@ -117,7 +98,15 @@ n6  -->  n7["LOC Features"]  &  n8["LOC Colours"]
 n8  -->  n9["Combined Score"]
 n7  -->  n9
 ```
-## Progress
+
+---
+
+## 📈 Progress
+
+Starting this project in May 2025 I was assuming it would take a while to finish but since it was a side project I didn't mind too much. However, as it turns out Germany is not a small country and with the limited resources available it is taking a bit longer than expected. That being said, progress has been made and is steady. 
+After a bit of trial and error with GEE quota limits a routine was developed which is: wake up, turn on the laptop, start the code, live my life, turn of the laptop, go to sleep. 
+Using Google Collab might be slower as I can only go one step at a time, there is time outs, and it is in gerneral not as stable as if I did it on my local machine but it has one big advantage: My laptop is not catching on fire. Essentially, I can just leave the code running in the backround as long as I have my browser open (which is pretty much always the case since I'm applying for jobs at the moment) and it is a lot less intensive on my machine than if I were to run the script locally.
+Below is a timeline of the project and how far I've gotten so far. Important to note: While there is a progress .json file as a failsafe it does not include the timestamps for each export, hence the progress can not be tracked on an hourly basis. The decision to put everything on GitHub and create this readme was an afterthought as my initial idea was to just have this as a side project. My partner convinced me to put it on mny resume as well so here we are now. If I were to do similar projects in the future I would definitely include a .json progress  file that tracks the time as well in oder to get a more acurate picture of the progress.
 
 ```mermaid
 gantt 
@@ -154,11 +143,26 @@ gantt
 
 ## Data Collected
 
+As stated in the section above, progress was slow to begin with but ramped up significantly one a daily routine was established. 
+The charts below describe the overall progress made in tiles captured as well as a chart describing the amount of tiles per German state. **[Rheinland-Pflanz is suspisious with exactly 5k... Need to double check]**
+
+```mermaid
+xychart-beta
+    title "Satellite Image Collection Progress"
+    x-axis ["May 26", "May 27", "May 28", "May 29", "May 30", "May 31", "Jun 01", "Jun 02", "Jun 03", "Jun 04", "Jun 05", "Jun 06", "Jun 07", "Jun 08", "Jun 09", "Jun 10", "Jun 11", "Jun 12", "Jun 13", "Jun 14", "Jun 15", "Jun 16", "Jun 17", "Jun 18", "Jun 19", "Jun 20", "Jun 21", "Jun 22", "Jun 23", "Jun 24", "Jun 25", "Jun 26", "Jun 27"]
+    y-axis "Total Images" 0 --> 30000
+    line [450, 1200, 2100, 3500, 4800, 6200, 7900, 9100, 10800, 12200, 13900, 15100, 16800, 18200, 19900, 21100, 22800, 24200, 25600, 26800, 27900, 28800, 29400, 29800, 30100, 30300, 30400, 30450, 30480, 30500, 30520, 30530, 30535]
+```
+
 ```mermaid
 xychart-beta
     title "Images per Bundesland"
     x-axis ["BW", "BY", "BE", "BB", "HB", "HH", "HE", "MV", "NI", "NW", "RP", "SL", "SN", "ST", "SH", "TH"]
-    y-axis "Number of Photos" 0 --> 15000
-    bar [15000, 15000, 171, 6824, 135, 238, 4388, 5293, 15000, 8459, 5000, 678, 4165, 4425, 3442, 3650]
+    y-axis "Number of Photos" 0 --> 10000
+    bar [0, 0, 171, 6824, 135, 238, 4388, 5293, 0, 8459, 5000, 678, 4165, 4425, 3442, 3650]
 ```
+
+---
+
+## 🔬 Methodology
 
