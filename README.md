@@ -9,7 +9,7 @@ This is a question I've started asking myslef while I was writing my Master's th
 
 ## 📋 Table of Contents
 - [📊 Project Stats](#-project-stats)
-- [➡️ General Workflow](#-general-workflow)
+- [➡️ General Workflow](#general-workflow)
 - [📈 Progress](#-progress)
 - [🏆 Most Interesting Discoveries](#-most-interesting-discoveries)
 - [🚀 Quick Start](#-quick-start)
@@ -40,22 +40,28 @@ This is a question I've started asking myslef while I was writing my Master's th
 | tile_6.840_49.596 [*boring*] | 0.06888652 [639th] | 0.12536496 [150th] | 0.09712574 [545th] |
 | tile_9.996_53.550 [*interesting*] | 0.94206405 [2nd] | 0.57256913 [8th] | 0.7573166 [1st] |
 
-Out of the 679 tiles analysed for Saarland these two have been used as an example. Saarland was the first test run of the LOF algorithm. It is not representative of the whole project yet as the data will still need to be cleand more since there's cloud coverage, broken data, missing tiles, and possibly many more problems. Additionally, the tiles were only compared against each other within Saarland which will skew
+- Out of the 679 tiles analysed for Saarland these two have been used as an example.
+- Saarland was the first test run of the LOF algorithm.
+- It is not representative of the whole project yet as the data will still need to be cleand more since there's cloud coverage, broken data, missing tiles, and possibly many more problems.
+- Additionally, the tiles were only compared against each other within Saarland which will skew the values compared to the final results.
+- The tiles are named based on the LAT LON coordinates of the lower left corner so they can be found after the project is done and a higher res image can be created.
 </details>
 
 
 
-## 🏆 Most Interesting Discoveries
+## 🏆 Most Interesting Discoveries [**TBD**]
 
-### 🥇 Top Find: Unique Geological Formation in Bavaria
+### 🥇 Top Find: [**TBD**]
 ![top-find](link-to-image)
-*LOF Score: 0.97 | Coordinates: 47.8°N, 11.2°E*
+*LOF Score: [**TBD**] | Coordinates: [**TBD**]
 
-### 🥈 Runner-up: Industrial Complex Pattern in NRW
+### 🥈 Runner-up: [**TBD**]
 ![second-find](link-to-image)
-*LOF Score: 0.94 | Coordinates: 51.5°N, 7.1°E*
+*LOF Score: [**TBD**] | Coordinates: [**TBD**]
 
-
+### 🍍 Most Boring: [**TBD**]
+![third-find](link-to-image)
+*LOF Score: [**TBD**] | Coordinates: [**TBD**]
 
 <details>
 <summary>🔬 Technical Implementation Details</summary>
