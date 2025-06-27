@@ -26,9 +26,9 @@ This is a question I've started asking myslef while I was writing my Master's th
 - **~5TB** of satellite data analyzed
 
 
-| Typical Squares | 🆚 | Most Interesting Finds |
+| Boring Squares | 🆚 | Most Interesting Finds |
 |:---:|:---:|:---:|
-| ![boring1](path/to/boring1.jpg) | | ![interesting1](path/to/interesting1.jpg) |
+| ![boring1](data/tile_6.840_49.596.png) | | ![interesting1](data/tile_9.996_53.550.png) |
 
 
 
