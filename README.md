@@ -169,6 +169,8 @@ xychart-beta
     bar [0, 0, 171, 6824, 135, 238, 4388, 5293, 0, 8459, 5000, 678, 4165, 4425, 3442, 3650]
 ```
 
+![Daily Rate](./charts/daily_rate.png)
+
 ---
 
 ## 🔬 Methodology
