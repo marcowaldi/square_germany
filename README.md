@@ -129,9 +129,9 @@ gantt
 	Mecklenburg-Vorpommern :done, 2025-06-11, 5d 
 	Brandenburg :done, 2025-06-16, 3d 
 	Nordrhein-Westfalen :done, 2025-06-19, 7d 
-	Baden-Württemberg :active, task1, 2025-06-26, 7d 
-	Niedersachsen : task2, after task1, 3d 
-	Bayern : task3, after task2, 3d 
+	Baden-Württemberg :done, 2025-06-26, 8d 
+	Niedersachsen : done, 2025-07-04, 3d 
+	Bayern : active, task1, 3d 
 	
 	section Processing 
 	LOC Colours : task4, after task3, 7d 
@@ -160,7 +160,7 @@ xychart-beta
     title "Images per Bundesland"
     x-axis ["BW", "BY", "BE", "BB", "HB", "HH", "HE", "MV", "NI", "NW", "RP", "SL", "SN", "ST", "SH", "TH"]
     y-axis "Number of Photos" 0 --> 10000
-    bar [0, 0, 171, 6824, 135, 238, 4388, 5293, 0, 8459, 5000, 678, 4165, 4425, 3442, 3650]
+    bar [6480, 0, 171, 6824, 135, 238, 4388, 5293, 6611, 8459, 5000, 678, 4165, 4425, 3442, 3650]
 ```
 
 ---
