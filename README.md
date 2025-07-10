@@ -123,8 +123,8 @@ gantt
 	Schleswig-Holstein :done, 2025-05-28, 2d 
 	Thüringen :done, 2025-05-30, 3d 
 	Sachsen :done, 2025-06-02, 5d 
-	Rheinland-Pfalz :done, 2025-06-07, 2d 
-	Sachsen-Anhalt : done, 2025-06-07, 2d
+	Rheinland-Pfalz :done, 2025-06-07, 1d 
+	Sachsen-Anhalt : done, 2025-06-08, 1d
 	Hessen :done, 2025-06-09, 2d 
 	Mecklenburg-Vorpommern :done, 2025-06-11, 5d 
 	Brandenburg :done, 2025-06-16, 3d 
