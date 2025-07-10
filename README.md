@@ -131,7 +131,7 @@ gantt
 	Nordrhein-Westfalen :done, 2025-06-19, 7d 
 	Baden-Württemberg :done, 2025-06-26, 8d 
 	Niedersachsen : done, 2025-07-04, 3d 
-	Bayern : active, task1, 3d 
+	Bayern : task3, 2025-07-07, 3d 
 	
 	section Processing 
 	LOC Colours : task4, after task3, 7d 
