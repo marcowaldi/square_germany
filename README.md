@@ -197,7 +197,7 @@ An iconic landmark in Berlin.
 <!-- Ensure the 'main' branch is correct, or change to 'master' if that's your default. -->
 <!-- The 'src' URL for the image MUST be the raw content URL from GitHub. -->
 
-<img src="https://raw.githubusercontent.com/marcowaldi/square_germany/blob/main/data/germany.png" usemap="#germany-photo-map" alt="Interactive map of Germany with photo pins" style="max-width: 100%; height: auto; border-radius: 8px;">
+<img src="https://raw.githubusercontent.com/marcowaldi/square_germany/main/data/germany.png" usemap="#germany-photo-map" alt="Interactive map of Germany with photo pins" style="max-width: 100%; height: auto; border-radius: 8px;">
 
 <map name="germany-photo-map">
     <!-- Example Pin 1: Neuschwanstein Castle (Bavaria) -->
