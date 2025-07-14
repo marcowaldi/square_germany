@@ -174,7 +174,7 @@ xychart-beta
 
 Here's an interactive map of Germany with photos of interesting places!
 ![test](/data/germany.png)
-<img src="https://raw.githubusercontent.com/marcowaldi/main/square_germany/data/germany.png" usemap="#germany-map" alt="Map of Germany with interactive pins">
+<img src="https://raw.githubusercontent.com/marcowaldi/square_germany/main/data/germany.png" usemap="#germany-map" alt="Map of Germany with interactive pins">
 
 <map name="germany-map">
     <area shape="circle" coords="100,150,10" href="https://raw.githubusercontent.com/data/tiles_best/colour_1_tile_11.341_47.595.png" alt="Colour #1" title="Click for Click for Colour #1 image">
