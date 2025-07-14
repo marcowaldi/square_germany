@@ -40,24 +40,24 @@ This is a question I've started asking myslef while I was writing my Master's th
 ---
 
 ## 📊 Project Stats
-- **55,000+** satellite image squares processed
-- **13** German states covered  
-- **30+ days** of work
+- **70,000+** satellite image squares processed
+- **16** German states covered  
+- **50+ days** of work
 
 
-## 🏆 Most Interesting Discoveries [**TBD**]
+## 🏆 Most Interesting Discoveries
 
-### 🥇 Top Find: [**TBD**]
-![top-find](link-to-image)
-*LOF Score: [**TBD**] | Coordinates: [**TBD**]
+### 🥇 Top Find: Walchensee [Bayern]
+![top-find](data/tiles_best/overall_1_tile_11.341_47.595.png)
+*LOF Score: [0.6688657285] | Coordinates: [47.595Lat 11.341Lon]
 
-### 🥈 Runner-up: [**TBD**]
-![second-find](link-to-image)
-*LOF Score: [**TBD**] | Coordinates: [**TBD**]
+### 🥈 Runner-up: Wattmeer [Schleswig-Holstein]
+![second-find](data/tiles_best/overall_2_tile_8.445_54.434.png)
+*LOF Score: [0.590112165] | Coordinates: [54.434Lat 8.445 Lon]
 
-### 🍍 Most Boring: [**TBD**]
-![third-find](link-to-image)
-*LOF Score: [**TBD**] | Coordinates: [**TBD**]
+### 🍍 Most Boring: Gutsbezirk Spessart [Hessen]
+![third-find](data/tiles_best/boring_tile_9.365_50.228.png)
+*LOF Score: [0.006251266358] | Coordinates: [50.228Lat 9.365Lon]
 
 ---
 
@@ -131,15 +131,15 @@ gantt
 	Nordrhein-Westfalen :done, 2025-06-19, 7d 
 	Baden-Württemberg :done, 2025-06-26, 8d 
 	Niedersachsen : done, 2025-07-04, 3d 
-	Bayern : task3, 2025-07-07, 3d 
+	Bayern : done, 2025-07-07, 5d 
 	
 	section Processing 
-	LOC Colours : task4, after task3, 7d 
-	LOC Features : task5, after task4, 7d 
+	LOC Colours : done, 2025-07-13, 1d 
+	LOC Features : done, 2025-07-14, 1d 
 
 	section Finalisation
-	Finalise GitHub: task6, after task5, 10d
-	Travel to location: milestone, after task6, 1d
+	Finalise GitHub: active, 2025-07-14, 10d
+	Travel to location: milestone, 2025-08-15, 1d
 
 ```
 
@@ -160,7 +160,7 @@ xychart-beta
     title "Images per Bundesland"
     x-axis ["BW", "BY", "BE", "BB", "HB", "HH", "HE", "MV", "NI", "NW", "RP", "SL", "SN", "ST", "SH", "TH"]
     y-axis "Number of Photos" 0 --> 10000
-    bar [6480, 0, 171, 6824, 135, 238, 4388, 5293, 6611, 8459, 5000, 678, 4165, 4425, 3442, 3650]
+    bar [6480, 21160, 171, 6824, 135, 238, 4388, 5293, 6611, 8459, 5000, 678, 4165, 4425, 3442, 3650]
 ```
 
 ---
