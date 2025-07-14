@@ -169,3 +169,24 @@ xychart-beta
 
 **[TBD]**
 
+
+# My Germany Photo Map
+
+Here's an interactive map of Germany with photos of interesting places!
+
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/assets/germany_map.png" usemap="#germany-map" alt="Map of Germany with interactive pins">
+
+<map name="germany-map">
+    <area shape="circle" coords="100,150,10" href="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/assets/neuschwanstein.jpg" alt="Neuschwanstein Castle" title="Click for Neuschwanstein Castle image">
+    <area shape="rect" coords="200,250,220,270" href="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/assets/berlin.jpg" alt="Berlin Brandenburg Gate" title="Click for Berlin Brandenburg Gate image">
+    </map>
+
+## Photo Gallery (Optional - if linking to sections)
+
+### Neuschwanstein Castle
+![Neuschwanstein Castle](https://raw.githubusercontent.com/marcowaldi/square_germany/main/assets/neuschwanstein.jpg)
+A beautiful fairy-tale castle in Bavaria.
+
+### Berlin Brandenburg Gate
+![Brandenburg Gate](https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/assets/berlin.jpg)
+An iconic landmark in Berlin.
