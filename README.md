@@ -59,8 +59,15 @@ This is a question I've started asking myslef while I was writing my Master's th
 ---
 ![map](data/overall.png) 
 
+| 🥇 Top Find: Walchensee [Bayern] | 🥈 Runner-up: Wattmeer [Schleswig-Holstein] | 🍍 Most Boring: Gutsbezirk Spessart [Hessen] |
 |:---:|:---:|:---:|
-
+| ![top-find](data/tiles_best/overall_1_tile_11.341_47.595.png) | ![second-find](data/tiles_best/overall_2_tile_8.445_54.434.png) | ![third-find](data/tiles_best/boring_tile_9.365_50.228.png) |
+| LOF Score: [0.6688657285] | LOF Score: [0.590112165] | [0.006251266358] |
+| [47.595Lat 11.341Lon] | [54.434Lat 8.445Lon] | [50.228Lat 9.365Lon]|
+|:---:|:---:|:---:|
+| ![top-find](data/tiles_best/overall_1_tile_11.341_47.595.png) | ![second-find](data/tiles_best/overall_2_tile_8.445_54.434.png) | ![third-find](data/tiles_best/boring_tile_9.365_50.228.png) |
+| LOF Score: [0.6688657285] | LOF Score: [0.590112165] | [0.006251266358] |
+| [47.595Lat 11.341Lon] | [54.434Lat 8.445Lon] | [50.228Lat 9.365Lon]|
 ---
 
 ## General Workflow
