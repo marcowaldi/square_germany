@@ -54,13 +54,12 @@ This is a question I've started asking myslef while I was writing my Master's th
 | Coordinates: [47.595Lat 11.341Lon] | [54.434Lat 8.445 Lon] | [50.228Lat 9.365Lon]|
 
 
-### 🥈 Runner-up: Wattmeer [Schleswig-Holstein]
-![second-find](data/tiles_best/overall_2_tile_8.445_54.434.png)
-* LOF Score: [0.590112165] | Coordinates: [54.434Lat 8.445 Lon]
 
-### 🍍 Most Boring: Gutsbezirk Spessart [Hessen]
-![third-find](data/tiles_best/boring_tile_9.365_50.228.png)
-* LOF Score: [0.006251266358] | Coordinates: [50.228Lat 9.365Lon]
+## 🪜 Best Scores Overall
+
+![map](data/top_10_squares_map) 
+
+|:---:|:---:|:---:|
 
 ---
 
@@ -175,42 +174,3 @@ xychart-beta
 
 # My Germany Photo Map
 
-<!-- START OF INTERACTIVE MAP -->
-<!-- IMPORTANT: Replace 'YOUR_USERNAME' and 'YOUR_REPO_NAME' with your actual GitHub details. -->
-<!-- Ensure the 'main' branch is correct, or change to 'master' if that's your default. -->
-<!-- The 'src' URL for the image MUST be the raw content URL from GitHub. -->
-
-<img src="https://github.com/marcowaldi/square_germany/blob/main/data/germany.png?raw=true" usemap="#germany-photo-map" alt="Interactive map of Germany with photo pins" style="max-width: 100%; height: auto; border-radius: 8px;">
-
-<map name="germany-photo-map">
-    <!-- Example Pin 1: Neuschwanstein Castle (Bavaria) -->
-    <!-- Adjust coords based on where you want the pin on YOUR map image -->
-    <area shape="circle" coords="1,2,1000" 
-          href="https://github.com/marcowaldi/square_germany/blob/main/data/tiles_best/colour_1_tile_11.341_47.595.png" 
-          alt="test" 
-          title="test: Click to view photo" 
-          target="_blank">
-
-    <!-- Example Pin 2: Brandenburg Gate (Berlin) -->
-    <!-- Adjust coords based on where you want the pin on YOUR map image -->
-    <area shape="circle" coords="650,200,10" 
-          href="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO_NAME/main/assets/berlin_gate.jpg" 
-          alt="Brandenburg Gate, Berlin" 
-          title="Brandenburg Gate: Click to view photo" 
-          target="_blank">
-
-    <!-- Example Pin 3: Cologne Cathedral -->
-    <!-- Adjust coords based on where you want the pin on YOUR map image -->
-    <area shape="circle" coords="200,350,10" 
-          href="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO_NAME/main/assets/cologne_cathedral.jpg" 
-          alt="Cologne Cathedral" 
-          title="Cologne Cathedral: Click to view photo" 
-          target="_blank">
-
-    <!-- Add 17 more <area> tags here for your other 17 images -->
-    <!-- Make sure to update coords, href, alt, and title for each -->
-    <!-- Example: -->
-    <!-- <area shape="circle" coords="X,Y,R" href="YOUR_RAW_IMAGE_URL.jpg" alt="Location Name" title="Location Name: Click to view photo" target="_blank"> -->
-
-</map>
-<!-- END OF INTERACTIVE MAP -->
