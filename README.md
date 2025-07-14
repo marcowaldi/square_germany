@@ -190,3 +190,44 @@ A beautiful fairy-tale castle in Bavaria.
 ### Berlin Brandenburg Gate
 ![Brandenburg Gate](https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/assets/berlin.jpg)
 An iconic landmark in Berlin.
+
+
+<!-- START OF INTERACTIVE MAP -->
+<!-- IMPORTANT: Replace 'YOUR_USERNAME' and 'YOUR_REPO_NAME' with your actual GitHub details. -->
+<!-- Ensure the 'main' branch is correct, or change to 'master' if that's your default. -->
+<!-- The 'src' URL for the image MUST be the raw content URL from GitHub. -->
+
+<img src="https://raw.githubusercontent.com/marcowaldi/square_germany/main/data/germany.png" usemap="#germany-photo-map" alt="Interactive map of Germany with photo pins" style="max-width: 100%; height: auto; border-radius: 8px;">
+
+<map name="germany-photo-map">
+    <!-- Example Pin 1: Neuschwanstein Castle (Bavaria) -->
+    <!-- Adjust coords based on where you want the pin on YOUR map image -->
+    <area shape="circle" coords="450,600,10" 
+          href="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO_NAME/main/assets/neuschwanstein.jpg" 
+          alt="Neuschwanstein Castle" 
+          title="Neuschwanstein Castle: Click to view photo" 
+          target="_blank">
+
+    <!-- Example Pin 2: Brandenburg Gate (Berlin) -->
+    <!-- Adjust coords based on where you want the pin on YOUR map image -->
+    <area shape="circle" coords="650,200,10" 
+          href="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO_NAME/main/assets/berlin_gate.jpg" 
+          alt="Brandenburg Gate, Berlin" 
+          title="Brandenburg Gate: Click to view photo" 
+          target="_blank">
+
+    <!-- Example Pin 3: Cologne Cathedral -->
+    <!-- Adjust coords based on where you want the pin on YOUR map image -->
+    <area shape="circle" coords="200,350,10" 
+          href="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO_NAME/main/assets/cologne_cathedral.jpg" 
+          alt="Cologne Cathedral" 
+          title="Cologne Cathedral: Click to view photo" 
+          target="_blank">
+
+    <!-- Add 17 more <area> tags here for your other 17 images -->
+    <!-- Make sure to update coords, href, alt, and title for each -->
+    <!-- Example: -->
+    <!-- <area shape="circle" coords="X,Y,R" href="YOUR_RAW_IMAGE_URL.jpg" alt="Location Name" title="Location Name: Click to view photo" target="_blank"> -->
+
+</map>
+<!-- END OF INTERACTIVE MAP -->
