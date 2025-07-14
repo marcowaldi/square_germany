@@ -1,6 +1,6 @@
 ## 📋 Table of Contents
 - [📊 Project Stats](#-project-stats)
-- [🏆 Most Interesting Discoveries](#-most-interesting-discoveries-tbd)
+- [🏆 Most Interesting Discoveries](#-most-interesting-discoveries)
 - [➡️ General Workflow](#general-workflow)
 - [📈 Progress](#-progress)
 - [🔬 Methodology](#-methodology)
@@ -54,9 +54,9 @@ This is a question I've started asking myslef while I was writing my Master's th
 | Coordinates: [47.595Lat 11.341Lon] | [54.434Lat 8.445 Lon] | [50.228Lat 9.365Lon]|
 
 
-
-## 🪜 Best Scores Overall
-
+---
+## Best Scores Overall
+---
 ![map](data/overall.png) 
 
 |:---:|:---:|:---:|
