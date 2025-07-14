@@ -161,7 +161,7 @@ In future projects I would definitely go the route I did for the cumulative prog
 xychart-beta
     title "Images per Bundesland"
     x-axis ["BW", "BY", "BE", "BB", "HB", "HH", "HE", "MV", "NI", "NW", "RP", "SL", "SN", "ST", "SH", "TH"]
-    y-axis "Number of Photos" 0 --> 10000
+    y-axis "Number of Photos" 0 --> 25000
     bar [6480, 21160, 171, 6824, 135, 238, 4388, 5293, 6611, 8459, 5000, 678, 4165, 4425, 3442, 3650]
 ```
 
@@ -172,5 +172,4 @@ xychart-beta
 **[TBD]**
 
 
-# My Germany Photo Map
 
