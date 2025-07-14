@@ -57,7 +57,7 @@ This is a question I've started asking myslef while I was writing my Master's th
 
 ## 🪜 Best Scores Overall
 
-![map](data/top_10_squares_map) 
+![map](data/overall.png) 
 
 |:---:|:---:|:---:|
 
