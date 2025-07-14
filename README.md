@@ -172,26 +172,6 @@ xychart-beta
 
 # My Germany Photo Map
 
-Here's an interactive map of Germany with photos of interesting places!
-![test](/data/germany.png)
-<img src="https://raw.githubusercontent.com/marcowaldi/square_germany/main/data/germany.png" usemap="#map" alt="Map of Germany with interactive pins">
-
-<map name="germany-map">
-    <area shape="circle" coords="100,150,10" href="https://raw.githubusercontent.com/data/tiles_best/colour_1_tile_11.341_47.595.png" alt="Colour #1" title="Click for Click for Colour #1 image">
-    <area shape="rect" coords="200,250,220,270" href="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/assets/berlin.jpg" alt="Berlin Brandenburg Gate" title="Click for Berlin Brandenburg Gate image">
-    </map>
-
-## Photo Gallery (Optional - if linking to sections)
-
-### Colour 1
-![Colour 1](https://raw.githubusercontent.com/data/tiles_best/colour_1_tile_11.341_47.595.png)
-A beautiful fairy-tale castle in Bavaria.
-
-### Berlin Brandenburg Gate
-![Brandenburg Gate](https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/assets/berlin.jpg)
-An iconic landmark in Berlin.
-
-
 <!-- START OF INTERACTIVE MAP -->
 <!-- IMPORTANT: Replace 'YOUR_USERNAME' and 'YOUR_REPO_NAME' with your actual GitHub details. -->
 <!-- Ensure the 'main' branch is correct, or change to 'master' if that's your default. -->
@@ -202,7 +182,7 @@ An iconic landmark in Berlin.
 <map name="germany-photo-map">
     <!-- Example Pin 1: Neuschwanstein Castle (Bavaria) -->
     <!-- Adjust coords based on where you want the pin on YOUR map image -->
-    <area shape="circle" coords="1500,2000,100" 
+    <area shape="circle" coords="1,2,1000" 
           href="https://github.com/marcowaldi/square_germany/blob/main/data/tiles_best/colour_1_tile_11.341_47.595.png" 
           alt="test" 
           title="test: Click to view photo" 
