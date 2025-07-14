@@ -49,15 +49,15 @@ This is a question I've started asking myslef while I was writing my Master's th
 
 ### 🥇 Top Find: Walchensee [Bayern]
 ![top-find](data/tiles_best/overall_1_tile_11.341_47.595.png)
-*LOF Score: [0.6688657285] | Coordinates: [47.595Lat 11.341Lon]
+* LOF Score: [0.6688657285] | Coordinates: [47.595Lat 11.341Lon]
 
 ### 🥈 Runner-up: Wattmeer [Schleswig-Holstein]
 ![second-find](data/tiles_best/overall_2_tile_8.445_54.434.png)
-*LOF Score: [0.590112165] | Coordinates: [54.434Lat 8.445 Lon]
+* LOF Score: [0.590112165] | Coordinates: [54.434Lat 8.445 Lon]
 
 ### 🍍 Most Boring: Gutsbezirk Spessart [Hessen]
 ![third-find](data/tiles_best/boring_tile_9.365_50.228.png)
-*LOF Score: [0.006251266358] | Coordinates: [50.228Lat 9.365Lon]
+* LOF Score: [0.006251266358] | Coordinates: [50.228Lat 9.365Lon]
 
 ---
 
