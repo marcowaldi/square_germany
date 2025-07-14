@@ -203,7 +203,7 @@ An iconic landmark in Berlin.
     <!-- Example Pin 1: Neuschwanstein Castle (Bavaria) -->
     <!-- Adjust coords based on where you want the pin on YOUR map image -->
     <area shape="circle" coords="450,600,100" 
-          href="https://github.com/marcowaldi/square_germany/blob/main/data/tiles_best/colour_1_tile_11.341_47.595.png?raw=true" 
+          href="https://github.com/marcowaldi/square_germany/blob/main/data/tiles_best/colour_1_tile_11.341_47.595.png" 
           alt="test" 
           title="test: Click to view photo" 
           target="_blank">
