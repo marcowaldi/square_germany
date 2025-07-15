@@ -221,3 +221,16 @@ $${\color{red}This\ is\ red\ text}$$$${\color{blue}This\ is\ blue\ text}$$$${\co
 
 > [!CAUTION]
 > This is a caution, typically red.
+
+
+
+| Header 1 | Header 2 |
+|---|---|
+| Normal text | ${\color{blue}Blue\ text\ cell}$ <--- This will NOT render as colored text inside the table cell. It will likely show the raw LaTeX code. |
+
+
+
+| Header 1          | Header 2          |
+| :---------------- | :---------------- |
+| Normal text       | <span style="color: blue;">Blue text cell</span> |
+| <span style="color: red;">Red text cell</span> | Another cell      |
