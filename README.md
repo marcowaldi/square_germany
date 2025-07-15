@@ -46,8 +46,8 @@ This is a question I've started asking myslef while I was writing my Master's th
 ---
 
 ## 🏆 Most Interesting Discoveries
-- [🟨 Best Scores Overall](##-best-scores-overall)
-- [🟪 Best Colour Scores & 🟩 Best Feature Scores](##-best-colour-Scores-&-best-feature-scores)
+- [🟨 Best Scores Overall](#-best-scores-overall)
+- [🟪 Best Colour Scores & 🟩 Best Feature Scores](#-best-colour-Scores-&-best-feature-scores)
 
 
 
@@ -59,7 +59,7 @@ This is a question I've started asking myslef while I was writing my Master's th
 
 
 ---
-## 🟨 Best Scores Overall
+### 🟨 Best Scores Overall
 ---
 ![map](data/overall.png) 
 
@@ -86,7 +86,7 @@ $${\color{#7524AC}\mathbf{This\ is\ bold\ purple\ text}}$$
 | LOF Score: [0.5053973746] | | |
 | [50.903Lat 6.496Lon] | | |
 
-## 🟪 Best Colour Scores & 🟩 Best Feature Scores
+### 🟪 Best Colour Scores & 🟩 Best Feature Scores
 
 ![map](data/colour_features.png) 
 
