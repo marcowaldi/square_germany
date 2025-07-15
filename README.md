@@ -59,6 +59,7 @@ This is a question I've started asking myslef while I was writing my Master's th
 
 
 ---
+<!-- TOC --><a name="-best-scores-overall"></a>
 ### 🟨 Best Scores Overall
 ---
 ![map](data/overall.png) 
@@ -87,8 +88,9 @@ $${\color{#7524AC}\mathbf{This\ is\ bold\ purple\ text}}$$
 | [50.903Lat 6.496Lon] | | |
 
 ---
-
+<!-- TOC --><a name="-best-colour-scores-best-feature-scores"></a>
 ### 🟪 Best Colour Scores & 🟩 Best Feature Scores
+---
 
 ![map](data/colour_features.png) 
 
@@ -133,7 +135,7 @@ $${\color{#7524AC}\mathbf{This\ is\ bold\ purple\ text}}$$
 
 
 ---
-
+<!-- TOC --><a name="-general-workflow"></a>
 ## ➡️ General Workflow
 
 I am fully aware these are not proper workflows. Since this a project just for me and I'm not planning on publishing any of it it is merely a representation of the process and I am not planning on doing proper UML diagrams as the procedure is rather simple.
@@ -172,7 +174,7 @@ n7  -->  n9
 ```
 
 ---
-
+<!-- TOC --><a name="-progress"></a>
 ## 📈 Progress
 
 Starting this project in May 2025 I was assuming it would take a while to finish but since it was a side project I didn't mind too much. However, as it turns out Germany is not a small country and with the limited resources available it is taking a bit longer than expected. That being said, progress has been made and is steady. 
@@ -237,7 +239,7 @@ xychart-beta
 ```
 
 ---
-
+<!-- TOC --><a name="-methodology"></a>
 ## 🔬 Methodology
 
 **[TBD]**
