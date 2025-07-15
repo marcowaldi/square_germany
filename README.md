@@ -55,7 +55,7 @@ This is a question I've started asking myslef while I was writing my Master's th
 
 
 ---
-## Best Scores Overall
+## 🟨 Best Scores Overall
 ---
 ![map](data/overall.png) 
 
@@ -82,7 +82,28 @@ $${\color{#7524AC}\mathbf{This\ is\ bold\ purple\ text}}$$
 | LOF Score: [0.5053973746] | | |
 | [50.903Lat 6.496Lon] | | |
 
+## 🟪 Best Colour Score & 🟩 Best Feature Score 
 
+![map](data/colour_features.png) 
+
+
+| 1️⃣ $${\color{#7524AC}\mathbf{Walchensee}}$$ | 2️⃣ $${\color{#7524AC}\mathbf{Tiefenbach}}$$ | 3️⃣ $${\color{#7524AC}\mathbf{Pressath}}$$  |
+|:---:|:---:|:---:|
+| ![1](data/tiles_best/colour_1_tile_11.341_47.595.png) | ![2](data/tiles_best/colour_2_tile_12.615_49.451.png) | ![3](data/tiles_best/colour_3_tile_12.001_49.793.png) |
+| LOF Score: [1] | LOF Score: [0.6674969813] | LOF Score: [0.5601663615] |
+| [47.595Lat 11.341Lon] | [49.451Lat 12.615Lon] | [49.793Lat 12.001Lon]|
+| 4️⃣ $${\color{#7524AC}\mathbf{Waalkirchen}}$$ | 5️⃣ $${\color{#7524AC}\mathbf{Neuweiler}}$$ | 6️⃣ $${\color{#7524AC}\mathbf{Walchensee}}$$  |
+| ![4](data/tiles_best/colour_4_tile_11.670_47.786.png) | ![5](data/tiles_best/colour_5_tile_8.565_48.680.png) | ![6](data/tiles_best/colour_6_tile_11.315_47.596.png) |
+| LOF Score: [0.5566178204] | LOF Score: [0.5380550166] | LOF Score: [0.5149599051] |
+| [47.786Lat 11.67Lon] | [48.68Lat 8.565Lon] | [47.596Lat 11.315Lon]|
+| 7️⃣ $${\color{#7524AC}\mathbf{Bremerhafen}}$$  | 8️⃣ $${\color{#7524AC}\mathbf{Obersee}}$$  | 9️⃣ $${\color{#7524AC}\mathbf{Schlabendorfer\ See}}$$ |
+| ![7](data/tiles_best/colour_7_tile_8.517_53.572_1.png) | ![8](data/tiles_best/colour_8_tile_9.053_47.781.png) | ![9](data/tiles_best/colour_9_tile_13.785_51.784.png) |
+| LOF Score: [0.5052467851] | LOF Score: [0.4934236052] | LOF Score: [0.4787055813] |
+| [53.572Lat 8.517Lon] | [47.781Lat 9.053Lon] | [51.784Lat 13.785Lon]| 
+| 🔟 $${\color{#7524AC}\mathbf{Primstal}}$$  |  | |
+| ![10](data/tiles_best/colour_10_tile_6.954_49.527.png) | | |
+| LOF Score: [0.4669615026] | | |
+| [49.527Lat 6.954Lon] | | |
 
 
 ---
