@@ -1,6 +1,6 @@
 ## 📋 Table of Contents
 - [🏆 Most Interesting Discoveries](#-most-interesting-discoveries)
-- [➡️ General Workflow](#general-workflow)
+- [➡️ General Workflow](#-general-workflow)
 - [📈 Progress](#-progress)
 - [🔬 Methodology](#-methodology)
 
@@ -47,7 +47,7 @@ This is a question I've started asking myslef while I was writing my Master's th
 
 ## 🏆 Most Interesting Discoveries
 - [🟨 Best Scores Overall](##-best-scores-overall)
-- [🟪 Best Colour Scores & 🟩 Best Feature Scores](##best-colour-Scores-&-best-feature-scores)
+- [🟪 Best Colour Scores & 🟩 Best Feature Scores](##-best-colour-Scores-&-best-feature-scores)
 
 
 
