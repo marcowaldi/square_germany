@@ -13,6 +13,14 @@
 
 This is a question I've started asking myslef while I was writing my Master's thesis on the changing landscape of the Nile river basin using remote sensing. Once I graduated and was writing job applications I started this project to relax and do something I truly love: use data science and programming to answer questions no one has ever asked. I've lived in Germany, England and Belgium and I have to say Germany is by far the most interesting in terms of landscape, especially Bavaria where I was born. But can I actually proof it? Everyone is always annoyed with me raving on about how great Bavaria is compared to the rest of Germany. This project is for all the people who doubt that, it provides cold hard facts to these mundane questions.
 
+---
+
+## 📊 Project Stats
+- **70,000+** satellite image squares processed
+- **16** German states covered  
+- **50+ days** of work
+
+---
 
 | Boring Squares | 🆚 | Interesting Squares |
 |:---:|:---:|:---:|
@@ -35,14 +43,7 @@ This is a question I've started asking myslef while I was writing my Master's th
 - The tiles are named based on the LAT LON coordinates of the lower left corner so they can be found after the project is done and a higher res image can be created.
 </details>
 
-
 ---
-
-## 📊 Project Stats
-- **70,000+** satellite image squares processed
-- **16** German states covered  
-- **50+ days** of work
-
 
 ## 🏆 Most Interesting Discoveries
 
@@ -63,20 +64,20 @@ $${\color{#247356}\mathbf{This\ is\ bold\ green\ text}}$$
 $${\color{#7524AC}\mathbf{This\ is\ bold\ purple\ text}}$$
 
 
-| 1️⃣ Walchensee | 2️⃣ Süderoogsand | 3️⃣ Tagebau Welzow-Süd |
+| 1️⃣ $${\color{#8B7F13}\mathbf{Walchensee}}$$ | 2️⃣ $${\color{#8B7F13}\mathbf{Süderoogsand}}$$ | 3️⃣ $${\color{#8B7F13}\mathbf{Tagebau\ Welzow-Süd}}$$  |
 |:---:|:---:|:---:|
 | ![1](data/tiles_best/overall_1_tile_11.341_47.595.png) | ![2](data/tiles_best/overall_2_tile_8.445_54.434.png) | ![3](data/tiles_best/overall_3_tile_14.225_51.567.png) |
 | LOF Score: [0.6688657285] | LOF Score: [0.590112165] | LOF Score: [0.57239852] |
 | [47.595Lat 11.341Lon] | [54.434Lat 8.445Lon] | [51.567Lat 14.225Lon]|
-| 4️⃣ Hindenburgdamm | 5️⃣ Süderoogsand | 6️⃣ Tagebau Nochten |
+| 4️⃣ $${\color{#8B7F13}\mathbf{Hindenburgdamm}}$$ | 5️⃣ $${\color{#8B7F13}\mathbf{Süderoogsand}}$$ | 6️⃣ $${\color{#8B7F13}\mathbf{Tagebau\ Nochten}}$$  |
 | ![4](data/tiles_best/overall_4_tile_8.532_54.866.png) | ![5](data/tiles_best/overall_5_tile_8.476_54.435.png) | ![6](data/tiles_best/overall_6_tile_14.561_51.480.png) |
 | LOF Score: [0.5551107299] | LOF Score: [0.5544834481] | LOF Score: [0.5258437379] |
 | [54.866Lat 8.532Lon] | [54.435Lat 8.476Lon] | [51.48Lat 14.561Lon]|
-| 7️⃣ Saaler Bodden | 8️⃣ Totalreservat Wannichen | 9️⃣ Hirschhorn |
+| 7️⃣ $${\color{#8B7F13}\mathbf{Saaler\ Bodden}}$$  | 8️⃣ $${\color{#8B7F13}\mathbf{Totalreservat\ Wannichen}}$$  | 9️⃣ $${\color{#8B7F13}\mathbf{Hirschhorn}}$$ |
 | ![7](data/tiles_best/overall_7_tile_12.444_54.314.png) | ![8](data/tiles_best/overall_8_tile_13.785_51.784.png) | ![9](data/tiles_best/overall_9_tile_8.917_49.455_1.png) |
 | LOF Score: [0.5157419855] | LOF Score: [0.5128397034] | LOF Score: [0.5082391195] |
 | [54.314Lat 12.444Lon] | [51.784Lat 13.785Lon] | [49.455Lat 8.917Lon]| 
-| 🔟 Braunkohle-Tagebau Hambach |  | |
+| 🔟 $${\color{#8B7F13}\mathbf{Braunkohle-Tagebau\ Hambach}}$$  |  | |
 | ![10](data/tiles_best/overall_10_tile_6.496_50.903.png) | | |
 | LOF Score: [0.5053973746] | | |
 | [50.903Lat 6.496Lon] | | |
