@@ -190,4 +190,23 @@ xychart-beta
 **[TBD]**
 
 
-
+<table>
+  <thead>
+    <tr style="background-color: #CCCCFF;"> <th>Header 1</th>
+      <th>Header 2</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Normal cell</td>
+      <td style="color: blue;">Blue text cell</td>
+    </tr>
+    <tr style="background-color: #FFFFCC;"> <td>Yellow row cell 1</td>
+      <td>Yellow row cell 2</td>
+    </tr>
+    <tr>
+      <td style="background-color: #FFDDDD;">Red background cell</td>
+      <td>Another cell</td>
+    </tr>
+  </tbody>
+</table>
