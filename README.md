@@ -16,7 +16,7 @@ This is a question I've started asking myslef while I was writing my Master's th
 ---
 
 ## 📊 Project Stats
-- **70,000+** satellite image squares processed
+- **70,000+** satellite images downloaded & processed
 - **16** German states covered  
 - **50+ days** of work
 
@@ -46,6 +46,10 @@ This is a question I've started asking myslef while I was writing my Master's th
 ---
 
 ## 🏆 Most Interesting Discoveries
+- [🟨 Best Scores Overall](##-best-scores-overall)
+- [🟪 Best Colour Scores & 🟩 Best Feature Scores](##best-colour-Scores-&-best-feature-scores)
+
+
 
 | 🥇 Top Find: Walchensee [Bayern] | 🥈 Runner-up: Wattmeer [Schleswig-Holstein] | 🍍 Most Boring: Gutsbezirk Spessart [Hessen] |
 |:---:|:---:|:---:|
@@ -82,7 +86,7 @@ $${\color{#7524AC}\mathbf{This\ is\ bold\ purple\ text}}$$
 | LOF Score: [0.5053973746] | | |
 | [50.903Lat 6.496Lon] | | |
 
-## 🟪 Best Colour Score & 🟩 Best Feature Score 
+## 🟪 Best Colour Scores & 🟩 Best Feature Scores
 
 ![map](data/colour_features.png) 
 
@@ -104,6 +108,25 @@ $${\color{#7524AC}\mathbf{This\ is\ bold\ purple\ text}}$$
 | ![10](data/tiles_best/colour_10_tile_6.954_49.527.png) | | |
 | LOF Score: [0.4669615026] | | |
 | [49.527Lat 6.954Lon] | | |
+
+
+| 1️⃣ $${\color{#247356}\mathbf{Hirschhorn}}$$ | 2️⃣ $${\color{#247356}\mathbf{Hussum}}$$ | 3️⃣ $${\color{#247356}\mathbf{Tagebau\ Reichwalde}}$$  |
+|:---:|:---:|:---:|
+| ![1](data/tiles_best/feature_1_tile_8.917_49.455.png) | ![2](data/tiles_best/feature_2_tile_8.938_54.454.png) | ![3](data/tiles_best/feature_3_tile_14.695_51.401.png) |
+| LOF Score: [1] | LOF Score: [0.9322604098] | LOF Score: [0.8944784921] |
+| [49.455Lat 8.917Lon] | [54.454Lat 8.938Lon] | [51.401Lat 14.695Lon]|
+| 4️⃣ $${\color{#247356}\mathbf{Süderoogsand}}$$ | 5️⃣ $${\color{#247356}\mathbf{Braunkohle-Tagebau\ Hambach}}$$ | 6️⃣ $${\color{#247356}\mathbf{Borkum}}$$  |
+| ![4](data/tiles_best/feature_4_tile_8.445_54.434.png) | ![5](data/tiles_best/feature_5_tile_6.496_50.903.png) | ![6](data/tiles_best/feature_6_tile_6.641_53.604.png) |
+| LOF Score: [0.8827409585] | LOF Score: [0.882369035] | LOF Score: [0.8721131613] |
+| [54.434Lat 8.445Lon] | [50.903Lat 6.496Lon] | [53.604Lat 6.641Lon]|
+| 7️⃣ $${\color{#247356}\mathbf{Groß Mohrdorf}}$$  | 8️⃣ $${\color{#247356}\mathbf{Wattmeer}}$$  | 9️⃣ $${\color{#247356}\mathbf{Ilsdorf-Solms\ See}}$$ |
+| ![7](data/tiles_best/feature_7_tile_12.947_54.424.png) | ![8](data/tiles_best/feature_8_tile_8.694_54.130.png) | ![9](data/tiles_best/feature_9_tile_9.057_50.606.png) |
+| LOF Score: [0.8517181201] | LOF Score: [0.845703025] | LOF Score: [0.8421609745] |
+| [54.424Lat 12.947Lon] | [54.13Lat 8.694Lon] | [50.606Lat 9.057Lon]| 
+| 🔟 $${\color{#247356}\mathbf{Tagebau\ Welzow-Süd}}$$  |  | |
+| ![10](data/tiles_best/feature_10_tile_14.225_51.567.png) | | |
+| LOF Score: [0.8345225538] | | |
+| [51.567Lat 14.225Lon] | | |
 
 
 ---
