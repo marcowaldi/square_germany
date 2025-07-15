@@ -210,3 +210,7 @@ xychart-beta
     </tr>
   </tbody>
 </table>
+
+
+<span style="color: red;">This text is red.</span>
+<span style="color: #008000;">This text is green using hex code.</span>
