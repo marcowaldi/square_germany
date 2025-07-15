@@ -59,21 +59,23 @@ This is a question I've started asking myslef while I was writing my Master's th
 ---
 ![map](data/overall.png) 
 
-| 1️⃣ Top Find: Walchensee [Bayern] | 2️⃣ Runner-up: Wattmeer [Schleswig-Holstein] | 3️⃣ Most Boring: Gutsbezirk Spessart [Hessen] |
+| 1️⃣ Walchensee | 2️⃣ Süderoogsand | 3️⃣ Tagebau Welzow-Süd |
 |:---:|:---:|:---:|
 | ![1](data/tiles_best/overall_1_tile_11.341_47.595.png) | ![2](data/tiles_best/overall_2_tile_8.445_54.434.png) | ![3](data/tiles_best/overall_3_tile_14.225_51.567.png) |
-| LOF Score: [0.6688657285] | LOF Score: [0.590112165] | [0.006251266358] |
-| [47.595Lat 11.341Lon] | [54.434Lat 8.445Lon] | [50.228Lat 9.365Lon]|
-| 4️⃣ Top Find: Walchensee [Bayern] | 5️⃣ Runner-up: Wattmeer [Schleswig-Holstein] | 6️⃣ Most Boring: Gutsbezirk Spessart [Hessen] |
+| LOF Score: [0.6688657285] | LOF Score: [0.590112165] | LOF Score: [0.57239852] |
+| [47.595Lat 11.341Lon] | [54.434Lat 8.445Lon] | [51.567Lat 14.225Lon]|
+| 4️⃣ Hindenburgdamm | 5️⃣ Süderoogsand | 6️⃣ Tagebau Nochten |
 | ![4](data/tiles_best/overall_4_tile_8.532_54.866.png) | ![5](data/tiles_best/overall_5_tile_8.476_54.435.png) | ![6](data/tiles_best/overall_6_tile_14.561_51.480.png) |
-| LOF Score: [0.6688657285] | LOF Score: [0.590112165] | [0.006251266358] |
-| [47.595Lat 11.341Lon] | [54.434Lat 8.445Lon] | [50.228Lat 9.365Lon]|
-| 7️⃣ Top Find: Walchensee [Bayern] | 8️⃣ Runner-up: Wattmeer [Schleswig-Holstein] | 9️⃣ Most Boring: Gutsbezirk Spessart [Hessen] |
+| LOF Score: [0.5551107299] | LOF Score: [0.5544834481] | LOF Score: [0.5258437379] |
+| [54.866Lat 8.532Lon] | [54.435Lat 8.476Lon] | [51.48Lat 14.561Lon]|
+| 7️⃣ Saaler Bodden | 8️⃣ Totalreservat Wannichen | 9️⃣ Hirschhorn |
 | ![7](data/tiles_best/overall_7_tile_12.444_54.314.png) | ![8](data/tiles_best/overall_8_tile_13.785_51.784.png) | ![9](data/tiles_best/overall_9_tile_8.917_49.455_1.png) |
-| LOF Score: [0.6688657285] | LOF Score: [0.590112165] | [0.006251266358] |
-| [47.595Lat 11.341Lon] | [54.434Lat 8.445Lon] | [50.228Lat 9.365Lon]| 
-| 🔟 Top Find: Walchensee [Bayern] |  | |
+| LOF Score: [0.5157419855] | LOF Score: [0.5128397034] | LOF Score: [0.5082391195] |
+| [54.314Lat 12.444Lon] | [51.784Lat 13.785Lon] | [49.455Lat 8.917Lon]| 
+| 🔟 Braunkohle-Tagebau Hambach |  | |
 | ![10](data/tiles_best/overall_10_tile_6.496_50.903.png) | | |
+| LOF Score: [0.5053973746] | | |
+| [50.903Lat 6.496Lon] | | |
 ---
 
 ## General Workflow
