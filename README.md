@@ -1,5 +1,4 @@
 ## 📋 Table of Contents
-- [📊 Project Stats](#-project-stats)
 - [🏆 Most Interesting Discoveries](#-most-interesting-discoveries)
 - [➡️ General Workflow](#general-workflow)
 - [📈 Progress](#-progress)
@@ -76,9 +75,13 @@ This is a question I've started asking myslef while I was writing my Master's th
 | ![10](data/tiles_best/overall_10_tile_6.496_50.903.png) | | |
 | LOF Score: [0.5053973746] | | |
 | [50.903Lat 6.496Lon] | | |
+
+
+
+
 ---
 
-## General Workflow
+## ➡️ General Workflow
 
 I am fully aware these are not proper workflows. Since this a project just for me and I'm not planning on publishing any of it it is merely a representation of the process and I am not planning on doing proper UML diagrams as the procedure is rather simple.
 
