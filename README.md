@@ -190,27 +190,34 @@ xychart-beta
 **[TBD]**
 
 
-<table>
-  <thead>
-    <tr style="background-color: #CCCCFF;"> <th>Header 1</th>
-      <th>Header 2</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Normal cell</td>
-      <td style="color: blue;">Blue text cell</td>
-    </tr>
-    <tr style="background-color: #FFFFCC;"> <td>Yellow row cell 1</td>
-      <td>Yellow row cell 2</td>
-    </tr>
-    <tr>
-      <td style="background-color: #FFDDDD;">Red background cell</td>
-      <td>Another cell</td>
-    </tr>
-  </tbody>
-</table>
+| Header 1          | Header 2          |
+| :---------------- | :---------------- |
+| Normal text       | <span style="color: blue;">Blue text cell</span> |
+| <span style="color: red;">Red text cell</span> | Another cell      |
+
+```diff
+- This line is red (like a deletion).
++ This line is green (like an addition).
+! This line is orange (like a warning).
+# This line is gray (like a comment).
+@@ This line is purple and bold (like a section header). @@
+```
 
 
-<span style="color: red;">This text is red.</span>
-<span style="color: #008000;">This text is green using hex code.</span>
+$${\color{red}This\ is\ red\ text}$$$${\color{blue}This\ is\ blue\ text}$$$${\color{#FF8C00}This\ is\ orange\ text}$$
+
+
+> [!NOTE]
+> This is a note, typically blue.
+
+> [!TIP]
+> This is a tip, typically green.
+
+> [!IMPORTANT]
+> This is important information, typically blue/purple.
+
+> [!WARNING]
+> This is a warning, typically yellow/orange.
+
+> [!CAUTION]
+> This is a caution, typically red.
