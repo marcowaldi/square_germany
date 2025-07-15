@@ -226,7 +226,7 @@ $${\color{red}This\ is\ red\ text}$$$${\color{blue}This\ is\ blue\ text}$$$${\co
 
 | Header 1 | Header 2 |
 |---|---|
-| Normal text | ${\color{blue}Blue\ text\ cell}$ <--- This will NOT render as colored text inside the table cell. It will likely show the raw LaTeX code. |
+| Normal text | $${\color{#FF0000}\mathbf{This\ is\ bold\ red\ text}}$$$${\color{#0000FF}\mathbf{This\ is\ bold\ blue\ text}}$$$${\color{#FFA500}\mathbf{This\ is\ bold\ orange\ text}}$$ |
 
 
 
