@@ -85,8 +85,8 @@ $${\color{#7524AC}\mathbf{This\ is\ bold\ purple\ text}}$$
 | ![10](data/tiles_best/overall_10_tile_6.496_50.903.png) | | |
 | LOF Score: [0.5053973746] | | |
 | [50.903Lat 6.496Lon] | | |
+---
 
-<!-- TOC --><a name="-best-colour-scores-best-feature-scores"></a>
 ### 🟪 Best Colour Scores & 🟩 Best Feature Scores
 
 ![map](data/colour_features.png) 
