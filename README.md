@@ -58,6 +58,11 @@ This is a question I've started asking myslef while I was writing my Master's th
 ---
 ![map](data/overall.png) 
 
+$${\color{#8B7F13}\mathbf{This\ is\ bold\ gold\ text}}$$
+$${\color{#247356}\mathbf{This\ is\ bold\ green\ text}}$$
+$${\color{#7524AC}\mathbf{This\ is\ bold\ purple\ text}}$$
+
+
 | 1️⃣ Walchensee | 2️⃣ Süderoogsand | 3️⃣ Tagebau Welzow-Süd |
 |:---:|:---:|:---:|
 | ![1](data/tiles_best/overall_1_tile_11.341_47.595.png) | ![2](data/tiles_best/overall_2_tile_8.445_54.434.png) | ![3](data/tiles_best/overall_3_tile_14.225_51.567.png) |
@@ -224,11 +229,11 @@ $${\color{red}This\ is\ red\ text}$$$${\color{blue}This\ is\ blue\ text}$$$${\co
 
 
 
-| $${\color{#247356}\mathbf{This\ is\ bold\ red\ text}}$$ | Header 2 |
+|  | Header 2 |
 |---|---|
 | Normal text |  |
 
-$${\color{#7524AC}\mathbf{This\ is\ bold\ blue\ text}}$$$${\color{#FFA500}\mathbf{This\ is\ bold\ orange\ text}}$$
+
 
 | Header 1          | Header 2          |
 | :---------------- | :---------------- |
