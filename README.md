@@ -224,11 +224,11 @@ $${\color{red}This\ is\ red\ text}$$$${\color{blue}This\ is\ blue\ text}$$$${\co
 
 
 
-| Header 1 | Header 2 |
+| $${\color{#247356}\mathbf{This\ is\ bold\ red\ text}}$$ | Header 2 |
 |---|---|
 | Normal text |  |
 
-$${\color{#FF0000}\mathbf{This\ is\ bold\ red\ text}}$$$${\color{#0000FF}\mathbf{This\ is\ bold\ blue\ text}}$$$${\color{#FFA500}\mathbf{This\ is\ bold\ orange\ text}}$$
+$${\color{#7524AC}\mathbf{This\ is\ bold\ blue\ text}}$$$${\color{#FFA500}\mathbf{This\ is\ bold\ orange\ text}}$$
 
 | Header 1          | Header 2          |
 | :---------------- | :---------------- |
