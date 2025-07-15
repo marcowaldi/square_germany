@@ -64,11 +64,6 @@ This is a question I've started asking myslef while I was writing my Master's th
 ---
 ![map](data/overall.png) 
 
-$${\color{#8B7F13}\mathbf{This\ is\ bold\ gold\ text}}$$
-$${\color{#247356}\mathbf{This\ is\ bold\ green\ text}}$$
-$${\color{#7524AC}\mathbf{This\ is\ bold\ purple\ text}}$$
-
-
 | 1️⃣ $${\color{#8B7F13}\mathbf{Walchensee}}$$ | 2️⃣ $${\color{#8B7F13}\mathbf{Süderoogsand}}$$ | 3️⃣ $${\color{#8B7F13}\mathbf{Tagebau\ Welzow-Süd}}$$  |
 |:---:|:---:|:---:|
 | ![1](data/tiles_best/overall_1_tile_11.341_47.595.png) | ![2](data/tiles_best/overall_2_tile_8.445_54.434.png) | ![3](data/tiles_best/overall_3_tile_14.225_51.567.png) |
@@ -245,47 +240,4 @@ xychart-beta
 **[TBD]**
 
 
-| Header 1          | Header 2          |
-| :---------------- | :---------------- |
-| Normal text       | <span style="color: blue;">Blue text cell</span> |
-| <span style="color: red;">Red text cell</span> | Another cell      |
 
-```diff
-- This line is red (like a deletion).
-+ This line is green (like an addition).
-! This line is orange (like a warning).
-# This line is gray (like a comment).
-@@ This line is purple and bold (like a section header). @@
-```
-
-
-$${\color{red}This\ is\ red\ text}$$$${\color{blue}This\ is\ blue\ text}$$$${\color{#FF8C00}This\ is\ orange\ text}$$
-
-
-> [!NOTE]
-> This is a note, typically blue.
-
-> [!TIP]
-> This is a tip, typically green.
-
-> [!IMPORTANT]
-> This is important information, typically blue/purple.
-
-> [!WARNING]
-> This is a warning, typically yellow/orange.
-
-> [!CAUTION]
-> This is a caution, typically red.
-
-
-
-|  | Header 2 |
-|---|---|
-| Normal text |  |
-
-
-
-| Header 1          | Header 2          |
-| :---------------- | :---------------- |
-| Normal text       | <span style="color: blue;">Blue text cell</span> |
-| <span style="color: red;">Red text cell</span> | Another cell      |
