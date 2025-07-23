@@ -239,5 +239,5 @@ xychart-beta
 
 **[TBD]**
 
-
+![Scatter Plot](./data/scatter_plot.png)
 
